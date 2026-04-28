@@ -1,6 +1,8 @@
 # PermitLens
 
-## Disclaimer: This repo is top-level project description of our proprietary solution. if you are interested in collaboration send a message to https://www.linkedin.com/in/tripathiutkarsh46/ or https://www.linkedin.com/in/preethisighavi/ 
+## Disclaimer: This repo is top-level project description of our proprietary solution. if you are interested in collaboration or test the application live, send a message to original creators.
+https://www.linkedin.com/in/tripathiutkarsh46/ 
+https://www.linkedin.com/in/preethisighavi/ 
 
 ## How to Contribute
 You can contribute in either of these ways:
