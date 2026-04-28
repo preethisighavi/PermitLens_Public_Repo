@@ -1,5 +1,27 @@
 # PermitLens
 
+## Disclaimer: This repo is top-level project description of our proprietary solution. if you are interested in collaboration send a message to https://www.linkedin.com/in/tripathiutkarsh46/ or https://www.linkedin.com/in/preethisighavi/ 
+
+## How to Contribute
+You can contribute in either of these ways:
+
+1. **Fork-based contribution**
+   - Fork the repository (if enabled)
+   - Create a feature branch
+   - Make your changes
+   - Submit a pull request
+
+2. **Request collaborator access**
+   - Contact me if you want to contribute directly in the main private repository
+
+## Recognition
+All contributors will be recognized through:
+- commit history
+- pull request authorship
+- a Contributors section in the README
+- release notes for significant contributions
+
+
 **New here. We're not. Let's get your permit done right.**
 
 PermitLens is an AI-powered permit packet pre-submission assistant built for IBM watsonx. Whether you are a longtime homeowner or someone new to the US navigating city permits for the first time, PermitLens walks you through every requirement — pulling live official rules, generating a plain-English checklist, assessing your documents, and showing you exactly what is missing before you submit.
